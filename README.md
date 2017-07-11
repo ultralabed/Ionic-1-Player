@@ -1,4 +1,18 @@
-# ionicPlayer
-Inoder to run the sample code, you will have to install ionic.
-See the link below.
-You can also download the ionicPlayer.apk for testing.
+Ionic Video Player
+================
+
+App features
+
+    *   Play video using html video tag
+    *   Start video
+    *   Change volumne
+    *   Full-screen video
+    *   Download video
+
+This project use how to use
+
+    *   Ionic 1.0.0.RC
+    
+**Note:** Checkout Android App [Download][src]
+
+[src]: https://github.com/ultralabed/ionicPlayer/raw/master/ionicPlayer.apk
